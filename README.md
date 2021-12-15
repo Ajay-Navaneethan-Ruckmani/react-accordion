@@ -1,5 +1,5 @@
 
-#React accordion. clone it and you can use it directly
+# accordion made with react. Clone it, install the scripts and you have your accordion
 
 # Getting Started with Create React App
 
