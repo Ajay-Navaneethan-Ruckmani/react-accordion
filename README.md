@@ -1,3 +1,6 @@
+
+#React accordion. clone it and you can use it directly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
